@@ -1,18 +1,6 @@
-# Attention:
+# vue-right-click-menu
 
-I no longer have the ability or interest in maintaining this package since I am not using Vue in any of my projects
-anymore, so I am abandoning `vue-context`. If your project depends on vue-context, please feel free to fork and maintain
-the package yourself, or use an [alternative context menu package](#alternatives).
-
-# vue-context
-
-[![npm version](https://img.shields.io/npm/v/vue-context.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-context)
-[![npm downloads](https://img.shields.io/npm/dt/vue-context.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-context)
-[![GitHub issues](https://img.shields.io/github/issues/rawilk/vue-context.svg?style=for-the-badge)](https://github.com/rawilk/vue-context/issues)
-[![GitHub stars](https://img.shields.io/github/stars/rawilk/vue-context.svg?style=for-the-badge)](https://github.com/rawilk/vue-context/stargazers)
-[![VueJS version](https://img.shields.io/badge/vue.js-2.x-green.svg?style=for-the-badge)](https://vuejs.org)
-
-`vue-context` provides a simple yet flexible context menu for Vue. It is styled for the standard `<ul>` tag, but any menu template can be used.
+`vue-right-click-menu` provides a simple yet flexible context menu for Vue. It is styled for the standard `<ul>` tag, but any menu template can be used.
 The menu is lightweight with its only dependency being `vue-clickaway`. The menu has some basic styles applied to it, but they can be easily 
 overridden by your own styles.
 <br><br>
@@ -29,7 +17,7 @@ your project.
 
 Using npm:
 ```bash
-npm i vue-context
+npm i vue-right-click-menu
 ```
 
 ## Basic Usage
@@ -88,7 +76,7 @@ Next add an element to the page that will trigger the context menu to appear, an
 
 ## Documentation
 
-For full documentation, go here: https://randallwilk.dev/docs/vue-context.
+For full documentation, go here: TBD
 
 If you would like to contribute to the documentation, you can edit the docs found here: https://github.com/rawilk/vue-context/tree/master/docs
 
